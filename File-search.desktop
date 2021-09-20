@@ -1,0 +1,12 @@
+#!/bin/python3
+[Desktop Entry]
+Exec=python3 /home/rha/PycharmProjects/File-Search/main.py
+GenericName[en_US]=File-search
+GenericName=File-search
+Icon=/home/rha/PycharmProjects/File-Search/explorer.ico
+Name[en_US]=File-search
+Name=File-search
+Path=/home/rha/PycharmProjects/File-Search/
+StartupNotify=true
+Terminal=false
+Type=Application
